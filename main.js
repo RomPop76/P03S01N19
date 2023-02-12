@@ -56,7 +56,7 @@ userName['length']; //ten sposób określamy notacją tablicową czy notacją z 
 // Pobranie konkretnego znaku
 userName.charAt(2);
 userName[2];
-// userName['2'];
+userName['2'];
 
 // Łaczenie stringów
 userName.concat(" - fajne imię!")
